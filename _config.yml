@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-bootstrap-resume-theme
+#theme: jekyll-bootstrap-resume-theme
 remote-theme: nscharrenberg/jekyll-bootstrap-resume
 
 plugins:
