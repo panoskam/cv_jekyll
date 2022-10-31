@@ -7,4 +7,4 @@ layout: resume
 Welcome to my online CV! Feel free to wander around and please don't hesitate to contact me for any further info.\
 **Panos**\
 \
-Keep in mind that we can also socialize at:
+Please keep in mind that we can also socialize at:
