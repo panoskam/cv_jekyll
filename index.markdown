@@ -6,6 +6,7 @@ layout: resume
 ---
 Welcome to my online CV! Feel free to wander around and please don't hesitate to contact me for any further info.\
 **Panos**\
+
 <webring-banner>
     <p>Member of <a href="https://sdy60-2022.netlify.app/">ΣΔΥ60-2022 Ring</a></p>
     <a href="https://sdy60-2022.netlify.app/prev">Previous</a>
